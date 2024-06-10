@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vrodrigues06/React-Quiz.git/static/css/main.97c8a73b.css",
+    "main.js": "/vrodrigues06/React-Quiz.git/static/js/main.34430224.js",
+    "index.html": "/vrodrigues06/React-Quiz.git/index.html",
+    "main.97c8a73b.css.map": "/vrodrigues06/React-Quiz.git/static/css/main.97c8a73b.css.map",
+    "main.34430224.js.map": "/vrodrigues06/React-Quiz.git/static/js/main.34430224.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97c8a73b.css",
+    "static/js/main.34430224.js"
+  ]
+}
